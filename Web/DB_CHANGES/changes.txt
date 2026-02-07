@@ -1,0 +1,2 @@
+services => is_featured,approved_at
+booked_services => lawyer_id,law_firm_id
